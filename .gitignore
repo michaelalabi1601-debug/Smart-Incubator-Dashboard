@@ -1,0 +1,10 @@
+#Python junk 
+__pycache__/
+*.pyc
+#Environment junk
+.env/
+venv/
+.conda/
+#OS junk
+.DS_Store
+Thumbs.db
