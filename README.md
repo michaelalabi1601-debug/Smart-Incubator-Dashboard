@@ -66,10 +66,9 @@ With active clamping enforced on the integral accumulator to eliminate windup ov
     streamlit run app.py
     ```
     ## 📂 Repository Structure
-
-     Smart-Incubator-Dashboard/
-    │
-    ├── ```app.py```                # Main Streamlit dashboard & SIL simulation loop
-    ├── ```requirements.txt```      # Python package dependencies
-    ├── ```README.md```             # Project documentation
-    └── ```scripts/```              # Modular simulation and controller classes
+Smart-Incubator-Dashboard/
+│
+├── ```app.py```                # Main Streamlit dashboard & SIL simulation loop
+├── ```requirements.txt```      # Python package dependencies
+├── ```README.md```             # Project documentation
+└── ```scripts/```              # Modular simulation and controller classes
