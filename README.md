@@ -65,7 +65,7 @@ With active clamping enforced on the integral accumulator to eliminate windup ov
    ```Bash
     streamlit run app.py
     ```
-    ## 📂 Repository Structure
+## 📂 Repository Structure
 Smart-Incubator-Dashboard/
 
 │
